@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/hechuanhua/Dev/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/hechuanhua/Dev/AwesomeProject/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/hechuanhua/Dev/AwesomeProject/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
