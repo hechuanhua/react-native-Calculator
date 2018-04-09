@@ -35,7 +35,7 @@ export default class App extends Component {
 
   numberFloat(number) {
 
-    if (number > 99999999999) {
+    if (number.toString().length > 11) {
       number = number.toExponential(3)
       number = number.replace('+', '')
       return number
